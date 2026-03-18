@@ -1,6 +1,8 @@
 # JoshTalksAI
 JoshTalksAI - Product Challenge
-live link-
+
+
+live link-https://nehakohli123.github.io/JoshTalksAI/
 ## Objective :
 AI models today struggle to understand India’s cultural and rural diversity due to lack of high-quality, structured, and location-specific datasets. While global landmarks are well recognized, culturally rich Indian contexts such as local traditions, village life, regional practices, and heritage remain underrepresented.
 The challenge lies in collecting large-scale, diverse, and accurate data from across India, especially rural areas where:
